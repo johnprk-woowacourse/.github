@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/programming-planet.png" width="180" alt="programming planet" />
+<img src="../images/programming-planet.png" width="180" alt="programming planet" />
 
 # 🪐 티뉴의 우아한테크코스
 
@@ -59,7 +59,7 @@
 <br />
 
 <div align="center">
-<img src="./images/coffee-planet.png" width="130" alt="coffee planet" />
+<img src="../images/coffee-planet.png" width="130" alt="coffee planet" />
 
 _☕ 커피 한 잔 수혈하고 계속 갑니다._
 
@@ -182,7 +182,7 @@ _레벨이 시작되면 이곳에 채워집니다._
 
 <div align="center">
 
-<img src="./images/planets-collection.png" width="520" alt="planets collection" />
+<img src="../images/planets-collection.png" width="520" alt="planets collection" />
 
 <sub>
   🌱 <b>아직 자라는 중인 기록입니다.</b><br />
