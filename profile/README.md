@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../images/programming-planet.png" width="180" alt="programming planet" />
+<img src="../images/슈퍼맨 포즈 행성.png" width="180" alt="programming planet" />
 
 # 🪐 티뉴의 우아한테크코스
 
@@ -15,27 +15,24 @@
 </div>
 
 <br />
-
-## 🗓 기간
-
-**2026.02 ~ 진행 중**
-
 <br />
 
----
 
 ## 🌑 Level 1
 
-<div align="center">
-<img src="../images/coffee-planet.png" width="130" alt="coffee planet" />
-</div>
 
 > **객체지향과 페어 프로그래밍에 익숙해지는 단계.**
 > Java로 도메인을 설계하고, AI · 페어와 함께 코드 리뷰를 주고받으며 자신의 코드를 설명할 수 있는 힘을 기릅니다.
 
+<br />
+
+
+
 ### 🗓 기간
 
-`2026.02 ~ 진행 중`
+`2026.02.24 ~ 04.19`
+
+<br />
 
 ### 🚀 진행 미션
 
@@ -45,36 +42,41 @@
 |:---:|:---|:---|:---:|:---:|:---:|
 | 1주차 | 🧪 Gemini Canvas 웹앱 | Google Gemini Canvas로 사용자에게 배포 가능한 웹앱을 빠르게 만들기 | [repo](https://github.com/JohnPrk/gemini-canvas-mission) | [#89](https://github.com/woowacourse/gemini-canvas-mission/pull/89) | [📖](https://johnprk.github.io/woowacourse/gemini-canvas/) |
 | 2주차 | 🂡 블랙잭 — 사이클 1 | 21을 넘지 않으면서 21에 가까운 합을 만드는 카드 게임 구현 | [repo](https://github.com/JohnPrk/java-blackjack) | [#932](https://github.com/woowacourse/java-blackjack/pull/932) | [📖](https://johnprk.github.io/woowacourse/blackjack-cycle-1/) |
-| 3주차 | 🂡 블랙잭 — 사이클 2 | 사이클 1 + 베팅 기능과 승패에 따른 수익 계산 추가 | [repo](https://github.com/JohnPrk/java-blackjack) | [#1055](https://github.com/woowacourse/java-blackjack/pull/1055) | [📖](https://johnprk.github.io/woowacourse/blackjack-cycle-2/) |
+| 3주차 | 🂡 블랙잭 — 사이클 2 | 베팅 기능과 승패에 따른 수익 계산 추가 | [repo](https://github.com/JohnPrk/java-blackjack) | [#1055](https://github.com/woowacourse/java-blackjack/pull/1055) | [📖](https://johnprk.github.io/woowacourse/blackjack-cycle-2/) |
 | 4주차 | ♟ 장기 — 사이클 1 | 장기 보드 초기화 및 기물별 이동 규칙 구현 | [repo](https://github.com/JohnPrk/java-janggi) | [#204](https://github.com/woowacourse/java-janggi/pull/204) | [📖](https://johnprk.github.io/woowacourse/janggi-cycle-1/) |
-| 5주차 | ♟ 장기 — 사이클 2 | 사이클 1 + 기물 확장 · 게임 종료 판단 · DB 영속성 적용 | [repo](https://github.com/JohnPrk/java-janggi) | [#298](https://github.com/woowacourse/java-janggi/pull/298) | [📖](https://johnprk.github.io/woowacourse/janggi-cycle-2/) |
+| 5주차 | ♟ 장기 — 사이클 2 | 기물 확장 · 게임 종료 판단 · DB 영속성 적용 | [repo](https://github.com/JohnPrk/java-janggi) | [#298](https://github.com/woowacourse/java-janggi/pull/298) | [📖](https://johnprk.github.io/woowacourse/janggi-cycle-2/) |
 
 </div>
-
-### 📝 학습
-
-- [우테코 - 1주차 Gemini Canvas 웹앱 만들기 미션 회고](https://johnprk.github.io/woowacourse/gemini-canvas/)
-- [우테코 - 블랙잭 회고(사이클 1)](https://johnprk.github.io/woowacourse/blackjack-cycle-1/)
-- [우테코 - 블랙잭 회고(사이클 2)](https://johnprk.github.io/woowacourse/blackjack-cycle-2/)
-- [우테코 - 장기 회고(사이클 1)](https://johnprk.github.io/woowacourse/janggi-cycle-1/)
-- [우테코 - 장기 회고(사이클 2)](https://johnprk.github.io/woowacourse/janggi-cycle-2/)
 
 <br />
 
----
+### 📝 학습
+_레벨이 시작되면 이곳에 블로그 포스팅이 쌓입니다._
+
+
+<br />
+
+<div align="center">
+  <img src="../images/coffee-planet.png" width="130" alt="coffee planet" />
+</div>
+
+<br />
+<br />
 
 ## 🌘 Level 2
 
-<div align="center">
-<img src="../images/pair-coding-planet.png" width="150" alt="pair coding planet" />
-</div>
+
 
 > **Spring과 데이터베이스로 서버 한 대를 온전히 끌고 가보는 단계.**
 > _(예정)_
 
+<br />
+
 ### 🗓 기간
 
 `추후 업데이트`
+
+<br />
 
 ### 🚀 진행 미션
 
@@ -86,26 +88,34 @@
 
 </div>
 
+<br />
+
 ### 📝 학습
 
 _레벨이 시작되면 이곳에 블로그 포스팅이 쌓입니다._
 
 <br />
 
----
+<div align="center">
+<img src="../images/프로그래밍을 하는 행성.png" width="150" alt="pair coding planet" />
+</div>
+
+<br />
+<br />
 
 ## 🌗 Level 3
 
-<div align="center">
-<img src="../images/team-project-planet.png" width="150" alt="team project planet" />
-</div>
 
 > **팀 프로젝트 — 아이디어가 서비스가 되는 단계.**
 > _(예정)_
 
+<br />
+
 ### 🗓 기간
 
 `추후 업데이트`
+
+<br />
 
 ### 🚀 진행 미션
 
@@ -116,6 +126,8 @@ _레벨이 시작되면 이곳에 블로그 포스팅이 쌓입니다._
 | — | _(예정)_ | — | — | — | — |
 
 </div>
+
+<br />
 
 ### 📝 학습
 
@@ -123,20 +135,25 @@ _레벨이 시작되면 이곳에 블로그 포스팅이 쌓입니다._
 
 <br />
 
----
-
-## 🌖 Level 4
-
 <div align="center">
-<img src="../images/party-planet.png" width="130" alt="party planet" />
+<img src="../images/행성의 띠를 들고있는 행성.png" width="150" alt="team project planet" />
 </div>
 
+<br />
+<br />
+
+
+## 🌖 Level 4
 > **인프라 · 운영 · 확장 — 내 서비스를 책임지고 수료까지 가는 단계.**
 > _(예정)_
+
+<br />
 
 ### 🗓 기간
 
 `추후 업데이트`
+
+<br />
 
 ### 🚀 진행 미션
 
@@ -148,10 +165,19 @@ _레벨이 시작되면 이곳에 블로그 포스팅이 쌓입니다._
 
 </div>
 
+<br />
+
 ### 📝 학습
 
 _레벨이 시작되면 이곳에 블로그 포스팅이 쌓입니다._
 
+<br />
+
+<div align="center">
+<img src="../images/한쪽 다리를 든 행성.png" width="130" alt="party planet" />
+</div>
+
+<br />
 <br />
 
 ---
