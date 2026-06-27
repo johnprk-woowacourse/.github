@@ -192,7 +192,7 @@ _미션별 회고는 위 표의 📖 링크에, 아래는 미션을 진행하며
 <thead>
 <tr>
 <th width="130">분류</th>
-<th>학습 노트</th>
+<th width="900">학습 노트</th>
 </tr>
 </thead>
 <tbody>
