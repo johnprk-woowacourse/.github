@@ -118,7 +118,7 @@
 <td align="center"><a href="https://johnprk.github.io/woowacourse/roomescape-member-cycle-2/">📖</a></td>
 </tr>
 <tr>
-<td align="center">선택(4주차)</td>
+<td align="center">4주차<br />(선택)</td>
 <td>🔐 방탈출 인증과 인가 — 선택 미션</td>
 <td>로그인 · 인증 토큰과 인터셉터 기반 관리자 인가 적용</td>
 <td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-auth2">repo</a></td>
@@ -134,7 +134,7 @@
 <td align="center"><a href="https://johnprk.github.io/woowacourse/roomescape-waiting-cycle-1/">📖</a></td>
 </tr>
 <tr>
-<td align="center">선택(6주차)</td>
+<td align="center">6주차<br />(선택)</td>
 <td>⏳ 방탈출 예약 대기 승인 — 사이클 2</td>
 <td>예약 취소 시 대기 자동 승계와 트랜잭션 경계 설계</td>
 <td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
@@ -142,7 +142,7 @@
 <td align="center">예정</td>
 </tr>
 <tr>
-<td align="center">선택(7주차)</td>
+<td align="center">7주차<br />(선택)</td>
 <td>☁️ 방탈출 AWS 배포</td>
 <td>방탈출 애플리케이션을 AWS에 배포하고 운영 환경 구성</td>
 <td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
@@ -150,7 +150,7 @@
 <td align="center">—</td>
 </tr>
 <tr>
-<td align="center">선택(8주차)</td>
+<td align="center">8주차<br />(선택)</td>
 <td>🔌 방탈출 예약 외부 API 연동 — 1차 시도</td>
 <td>첫 외부 API 연동 시도, 미통과 후 재도전</td>
 <td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
@@ -158,7 +158,7 @@
 <td align="center">❌ FAIL</td>
 </tr>
 <tr>
-<td align="center" rowspan="3">선택(9주차)</td>
+<td align="center" rowspan="3">9주차<br />(선택)</td>
 <td>🔌 방탈출 예약 외부 API 연동 — 1단계</td>
 <td>방탈출 예약에 외부 API 연동 (1단계)</td>
 <td align="center" rowspan="3"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
