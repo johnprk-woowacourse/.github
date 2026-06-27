@@ -184,7 +184,25 @@
 
 ### 📝 학습
 
-_미션별 회고는 위 표의 📖 링크에서 볼 수 있습니다. 레벨 전체를 묶는 학습 글은 곧 추가됩니다._
+_미션별 회고는 위 표의 📖 링크에, 아래는 미션을 진행하며 공식 문서 · 소스를 따라가 정리한 학습 노트입니다._
+
+* [스프링은 DDD에서 영감을 받았을까 — @Repository Javadoc을 11년 거꾸로 읽어보고](https://johnprk.github.io/spring/spring-annotation-ddd-myth/)
+* [Repository와 DAO, 둘 다 두지 않기로 했다 — Aggregate Root와 도메인 협력으로 돌아가서](https://johnprk.github.io/spring/repository-dao-aggregate-root/)
+* [@ControllerAdvice라는 이름 때문에 AOP인 줄 알았다, 프록시까지 따라가본 후](https://johnprk.github.io/spring/spring-aop-proxy/)
+* [@RestControllerAdvice 한 줄을 더 들여다봤다, @ResponseBody와 빈 등록까지](https://johnprk.github.io/spring/restcontrolleradvice-internals/)
+* [@ExceptionHandler가 항상 가장 먼저 잡는 이유, HandlerExceptionResolver 체인까지 따라가보고](https://johnprk.github.io/spring/handler-exception-resolver-chain/)
+* [ResponseEntityExceptionHandler를 상속하고 나서야 보였던 응집도](https://johnprk.github.io/spring/response-entity-exception-handler-extension/)
+* [GlobalExceptionHandler를 한 번 더 다듬으며, 두 갈래 경로와 ProblemType enum](https://johnprk.github.io/spring/global-exception-handler-anatomy/)
+* [@Transactional 한 줄을 따라가다 만난 프록시, ThreadLocal, 그리고 롤백의 책임 소재](https://johnprk.github.io/spring/spring-transactional-internals/)
+* [Spring @Transactional이 같은 클래스 안에서는 동작하지 않는 이유](https://johnprk.github.io/spring/spring-transactional-self-invocation/)
+* [자바 날짜 파서가 2026-02-31을 조용히 받아주는 이유](https://johnprk.github.io/java/java-resolverstyle-default-smart/)
+* [인터셉터로 인증을 짜다가 공식 문서에서 본 한 줄](https://johnprk.github.io/spring/interceptor-not-for-auth/)
+* [@WebMvcTest를 처음 쓰면서 든 두 가지 의심](https://johnprk.github.io/spring/webmvctest-two-doubts/)
+* [DuplicateKeyException은 누가 만드는가, 제약 한 줄 말고 내가 짠 게 없는데](https://johnprk.github.io/spring/duplicate-key-exception-translation/)
+* [왜 파사드냐는 질문이 매 리뷰마다 돌아왔다: 사실 그건 애플리케이션 서비스였다](https://johnprk.github.io/spring/facade-vs-application-service/)
+* [WebMvcConfigurer는 왜 이렇게 생겼나: MVC 설정을 통째로 갖지 않고 일부만 얹는 법](https://johnprk.github.io/spring/webmvcconfigurer-extension-callback/)
+* [readOnly가 쓰기를 막는 줄 알았다, H2 커넥션에서 힌트가 버려지는 걸 보고](https://johnprk.github.io/spring/spring-transactional-readonly/)
+* [락 충돌은 503인가 409인가: RFC 9110으로 다시 읽은 상태 코드](https://johnprk.github.io/web/lock-conflict-409-vs-503/)
 
 <br />
 
