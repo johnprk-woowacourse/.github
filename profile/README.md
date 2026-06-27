@@ -142,15 +142,15 @@
 <td align="center">예정</td>
 </tr>
 <tr>
-<td align="center">7주차</td>
+<td align="center">선택(7주차)</td>
 <td>☁️ 방탈출 AWS 배포</td>
 <td>방탈출 애플리케이션을 AWS에 배포하고 운영 환경 구성</td>
 <td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
 <td align="center">—</td>
-<td align="center">예정</td>
+<td align="center">—</td>
 </tr>
 <tr>
-<td align="center">8주차</td>
+<td align="center">선택(8주차)</td>
 <td>🔌 방탈출 예약 외부 API 연동 — 1차 시도</td>
 <td>첫 외부 API 연동 시도, 미통과 후 재도전</td>
 <td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
@@ -158,7 +158,7 @@
 <td align="center">❌ FAIL</td>
 </tr>
 <tr>
-<td align="center" rowspan="3">9주차</td>
+<td align="center" rowspan="3">선택(9주차)</td>
 <td>🔌 방탈출 예약 외부 API 연동 — 1단계</td>
 <td>방탈출 예약에 외부 API 연동 (1단계)</td>
 <td align="center" rowspan="3"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
