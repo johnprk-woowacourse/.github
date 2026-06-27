@@ -84,9 +84,9 @@
 <table>
 <thead>
 <tr>
-<th>주차</th>
+<th width="88">주차</th>
 <th>미션</th>
-<th>요구사항</th>
+<th width="30%">요구사항</th>
 <th>저장소</th>
 <th>PR</th>
 <th>회고</th>
