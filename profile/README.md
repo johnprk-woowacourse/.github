@@ -81,19 +81,102 @@
 
 <div align="center">
 
-| 주차 | 미션 | 요구사항 | 저장소 | PR | 회고 |
-|:---:|:---|:---|:---:|:---:|:---:|
-| 1주차 | 🚪 방탈출 예약 관리 — 사이클 1 | JDBC로 예약 · 시간 데이터를 DB에 영속화하고 관리자 페이지에서 추가 · 조회 · 삭제 구현 | [repo](https://github.com/JohnPrk/spring-roomescape-admin) | [#388](https://github.com/woowacourse/spring-roomescape-admin/pull/388) | [📖](https://johnprk.github.io/woowacourse/roomescape-admin-cycle-1/) |
-| 2주차 | 🗝️ 방탈출 테마 + 사용자 예약 — 사이클 1 | 테마 도메인과 사용자 예약 페이지 추가, 예약 가능 시간 조회 API 설계 | [repo](https://github.com/JohnPrk/spring-roomescape-member) | [#382](https://github.com/woowacourse/spring-roomescape-member/pull/382) | [📖](https://johnprk.github.io/woowacourse/roomescape-member-cycle-1/) |
-| 3주차 | 🔁 방탈출 예약 변경 · 취소 — 사이클 2 | 본인 예약 변경 · 취소 기능과 RFC 9457 ProblemDetail 기반 예외 응답 설계 | [repo](https://github.com/JohnPrk/spring-roomescape-member) | [#487](https://github.com/woowacourse/spring-roomescape-member/pull/487) | [📖](https://johnprk.github.io/woowacourse/roomescape-member-cycle-2/) |
-| 선택(4주차) | 🔐 방탈출 인증과 인가 — 선택 미션 | 로그인 · 인증 토큰과 인터셉터 기반 관리자 인가 적용 | [repo](https://github.com/JohnPrk/spring-roomescape-auth2) | [#52](https://github.com/woowacourse/spring-roomescape-auth/pull/52) | [📖](https://johnprk.github.io/woowacourse/roomescape-auth/) |
-| 5주차 | ⏳ 방탈출 예약 대기 — 사이클 1 | 예약 대기 테이블 분리 · 순번 계산과 4계층 테스트 전략 수립 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#398](https://github.com/woowacourse/spring-roomescape-waiting/pull/398) | [📖](https://johnprk.github.io/woowacourse/roomescape-waiting-cycle-1/) |
-| 선택(6주차)<br />개인 학습 | ⏳ 방탈출 예약 대기 승인 — 사이클 2 | 예약 취소 시 대기 자동 승계와 트랜잭션 경계 설계 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#447](https://github.com/woowacourse/spring-roomescape-waiting/pull/447) | 예정 |
-| 7주차 | ☁️ 방탈출 AWS 배포 | 방탈출 애플리케이션을 AWS에 배포하고 운영 환경 구성 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | — | 예정 |
-| 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 1차 시도 | 첫 외부 API 연동 시도, 미통과 후 재도전 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | — | ❌ FAIL |
-| 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 1단계 | 방탈출 예약에 외부 API 연동 (1단계) | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#672](https://github.com/woowacourse/spring-roomescape-waiting/pull/672) | 예정 |
-| 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 2단계 | 방탈출 예약에 외부 API 연동 (2단계) | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#691](https://github.com/woowacourse/spring-roomescape-waiting/pull/691) | 예정 |
-| 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 3단계 | 방탈출 예약에 외부 API 연동 (3단계, 진행 중) | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#699](https://github.com/woowacourse/spring-roomescape-waiting/pull/699) | 예정 |
+<table>
+<thead>
+<tr>
+<th>주차</th>
+<th>미션</th>
+<th>요구사항</th>
+<th>저장소</th>
+<th>PR</th>
+<th>회고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1주차</td>
+<td>🚪 방탈출 예약 관리 — 사이클 1</td>
+<td>JDBC로 예약 · 시간 데이터를 DB에 영속화하고 관리자 페이지에서 추가 · 조회 · 삭제 구현</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-admin">repo</a></td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-admin/pull/388">#388</a></td>
+<td align="center"><a href="https://johnprk.github.io/woowacourse/roomescape-admin-cycle-1/">📖</a></td>
+</tr>
+<tr>
+<td align="center">2주차</td>
+<td>🗝️ 방탈출 테마 + 사용자 예약 — 사이클 1</td>
+<td>테마 도메인과 사용자 예약 페이지 추가, 예약 가능 시간 조회 API 설계</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-member">repo</a></td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-member/pull/382">#382</a></td>
+<td align="center"><a href="https://johnprk.github.io/woowacourse/roomescape-member-cycle-1/">📖</a></td>
+</tr>
+<tr>
+<td align="center">3주차</td>
+<td>🔁 방탈출 예약 변경 · 취소 — 사이클 2</td>
+<td>본인 예약 변경 · 취소 기능과 RFC 9457 ProblemDetail 기반 예외 응답 설계</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-member">repo</a></td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-member/pull/487">#487</a></td>
+<td align="center"><a href="https://johnprk.github.io/woowacourse/roomescape-member-cycle-2/">📖</a></td>
+</tr>
+<tr>
+<td align="center">선택(4주차)</td>
+<td>🔐 방탈출 인증과 인가 — 선택 미션</td>
+<td>로그인 · 인증 토큰과 인터셉터 기반 관리자 인가 적용</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-auth2">repo</a></td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-auth/pull/52">#52</a></td>
+<td align="center"><a href="https://johnprk.github.io/woowacourse/roomescape-auth/">📖</a></td>
+</tr>
+<tr>
+<td align="center">5주차</td>
+<td>⏳ 방탈출 예약 대기 — 사이클 1</td>
+<td>예약 대기 테이블 분리 · 순번 계산과 4계층 테스트 전략 수립</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-waiting/pull/398">#398</a></td>
+<td align="center"><a href="https://johnprk.github.io/woowacourse/roomescape-waiting-cycle-1/">📖</a></td>
+</tr>
+<tr>
+<td align="center">선택(6주차)</td>
+<td>⏳ 방탈출 예약 대기 승인 — 사이클 2</td>
+<td>예약 취소 시 대기 자동 승계와 트랜잭션 경계 설계</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-waiting/pull/447">#447</a></td>
+<td align="center">예정</td>
+</tr>
+<tr>
+<td align="center">7주차</td>
+<td>☁️ 방탈출 AWS 배포</td>
+<td>방탈출 애플리케이션을 AWS에 배포하고 운영 환경 구성</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
+<td align="center">—</td>
+<td align="center">예정</td>
+</tr>
+<tr>
+<td align="center">8주차</td>
+<td>🔌 방탈출 예약 외부 API 연동 — 1차 시도</td>
+<td>첫 외부 API 연동 시도, 미통과 후 재도전</td>
+<td align="center"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
+<td align="center">—</td>
+<td align="center">❌ FAIL</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">9주차</td>
+<td>🔌 방탈출 예약 외부 API 연동 — 1단계</td>
+<td>방탈출 예약에 외부 API 연동 (1단계)</td>
+<td align="center" rowspan="3"><a href="https://github.com/JohnPrk/spring-roomescape-waiting2">repo</a></td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-waiting/pull/672">#672</a></td>
+<td align="center" rowspan="3">—</td>
+</tr>
+<tr>
+<td>🔌 방탈출 예약 외부 API 연동 — 2단계</td>
+<td>방탈출 예약에 외부 API 연동 (2단계)</td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-waiting/pull/691">#691</a></td>
+</tr>
+<tr>
+<td>🔌 방탈출 예약 외부 API 연동 — 3단계</td>
+<td>방탈출 예약에 외부 API 연동 (3단계, 진행 중)</td>
+<td align="center"><a href="https://github.com/woowacourse/spring-roomescape-waiting/pull/699">#699</a></td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
