@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 <thead>
 <tr>
 <th width="88">주차</th>
@@ -188,7 +188,7 @@ _미션별 회고는 위 표의 📖 링크에, 아래는 미션을 진행하며
 
 <div align="center">
 
-<table>
+<table width="100%">
 <thead>
 <tr>
 <th width="130">분류</th>
