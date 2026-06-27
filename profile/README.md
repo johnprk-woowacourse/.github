@@ -89,6 +89,8 @@
 | 선택(4주차) | 🔐 방탈출 인증과 인가 — 선택 미션 | 로그인 · 인증 토큰과 인터셉터 기반 관리자 인가 적용 | [repo](https://github.com/JohnPrk/spring-roomescape-auth2) | [#52](https://github.com/woowacourse/spring-roomescape-auth/pull/52) | [📖](https://johnprk.github.io/woowacourse/roomescape-auth/) |
 | 5주차 | ⏳ 방탈출 예약 대기 — 사이클 1 | 예약 대기 테이블 분리 · 순번 계산과 4계층 테스트 전략 수립 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#398](https://github.com/woowacourse/spring-roomescape-waiting/pull/398) | [📖](https://johnprk.github.io/woowacourse/roomescape-waiting-cycle-1/) |
 | 선택(6주차)<br />개인 학습 | ⏳ 방탈출 예약 대기 승인 — 사이클 2 | 예약 취소 시 대기 자동 승계와 트랜잭션 경계 설계 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#447](https://github.com/woowacourse/spring-roomescape-waiting/pull/447) | 예정 |
+| 7주차 | ☁️ 방탈출 AWS 배포 | 방탈출 애플리케이션을 AWS에 배포하고 운영 환경 구성 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | — | 예정 |
+| 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 1차 시도 | 첫 외부 API 연동 시도, 미통과 후 재도전 | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | — | ❌ FAIL |
 | 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 1단계 | 방탈출 예약에 외부 API 연동 (1단계) | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#672](https://github.com/woowacourse/spring-roomescape-waiting/pull/672) | 예정 |
 | 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 2단계 | 방탈출 예약에 외부 API 연동 (2단계) | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#691](https://github.com/woowacourse/spring-roomescape-waiting/pull/691) | 예정 |
 | 선택(7주차) | 🔌 방탈출 예약 외부 API 연동 — 3단계 | 방탈출 예약에 외부 API 연동 (3단계, 진행 중) | [repo](https://github.com/JohnPrk/spring-roomescape-waiting2) | [#699](https://github.com/woowacourse/spring-roomescape-waiting/pull/699) | 예정 |
